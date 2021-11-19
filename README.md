@@ -14,11 +14,9 @@ An end-to-end tutorial to train a Hindi character recognition model and deploy i
 
 5. Open the project in Android Studio and let it build itself for some time.
 
-6. Open `DigitClassifier.kt` file and edit **Line 64** by replacing `<your_model.tflite>` with the name of your actual TF Lite model.
+6. Open the `DigitClassifier.kt` file, edit **Line 333** by replacing `<your_no_of_output_classes>` with the no. of output classes in your model.
 
-7. Again, in the `DigitClassifier.kt` file, edit **Line 333** by replacing `<your_no_of_output_classes>` with the no. of output classes in your model.
-
-8. Build the project and install it on your phone. Enjoy your own custom-built Hindi character recognition app.
+7. Build the project and install it on your phone. Enjoy your own custom-built Hindi character recognition app.
 
 
 
