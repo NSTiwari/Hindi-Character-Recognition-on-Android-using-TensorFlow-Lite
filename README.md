@@ -16,7 +16,7 @@ An end-to-end tutorial to train a Hindi character recognition model and deploy i
 
 6. Open the `DigitClassifier.kt` file, edit **Line 333** by replacing `<your_no_of_output_classes>` with the no. of output classes in your model.
 
-7. Again, in the `DigitClassifier.kt` file, edit **Line 118 to Line 132** by setting the label according to your custom dataset. 
+7. Again, in the `DigitClassifier.kt` file, edit **Line 118 to Line 132** by setting the label names according to your custom dataset. 
 
 8. Build the project and install it on your phone. Enjoy your own custom-built Hindi character recognition app.
 
