@@ -1,0 +1,1 @@
+# Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite
