@@ -1,0 +1,2 @@
+org/tensorflow/lite/codelabs/digitclassifier/BuildConfig.java
+ org.tensorflow.lite.codelabs.digitclassifier.BuildConfig

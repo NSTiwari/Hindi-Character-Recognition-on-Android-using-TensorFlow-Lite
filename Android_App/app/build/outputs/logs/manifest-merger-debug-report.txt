@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\tiwar\.gradle\caches\transforms-3\7126c7bde319c5f414702198cc9aaf87\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\tiwar\.gradle\caches\transforms-3\5fcb464cec7415b609efacaa61655b5e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\tiwar\.gradle\caches\transforms-3\3e1164ec29ee244df5ca4e6328c96b8e\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\7dde890ec606c5546667ae903a27cfc7\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\tiwar\.gradle\caches\transforms-3\e7eac759d0432ad3e4dc8551c16effdd\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\f3edd5d4e10cf852c031a55146116ec4\transformed\jetified-tensorflow-lite-2.5.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\tiwar\.gradle\caches\transforms-3\e430000a519231d18a21029908b079e1\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\tiwar\.gradle\caches\transforms-3\ea601c3ad2d362309f55f6804befee74\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\tiwar\.gradle\caches\transforms-3\4250c4fdce0b0bb863868291b3b54fee\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\tiwar\.gradle\caches\transforms-3\41ae5a3ab2f0b08e1202999e22767383\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\02d96c1124ef0dea9c7edc211855a419\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\5cee26a8f009ab364a3e08e2791f2040\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\7bcd35601bf34b789ce8599d83ff2b73\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-3\5eca5f2d02838231eff174eb322a8d6e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-3\d30b7d7b657d1416e0225503cc3d5507\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\7dabde73415b7d8e8b5926eb67dda7d8\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\bc7e4e92123373c17955f303c12e35be\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\f83724d332320ada6ca6dabe0294d55c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\tiwar\.gradle\caches\transforms-3\9926e72680848a9b70539a4bb0d04d3d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-3\a95332b79e6a0b577c649f4488c5e9fb\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\tiwar\.gradle\caches\transforms-3\99caf459e39f0577631a901e4209c1f8\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\tiwar\.gradle\caches\transforms-3\ac1e3c872cd51209e90bd58f75a25c4a\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tiwar\.gradle\caches\transforms-3\de727323b42f3bbd20575a3a3269ebc6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\318bf09ebf28f5d03e44a987551ea9fe\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\a6241ca45e4b20dca36317bb138151b5\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\tiwar\.gradle\caches\transforms-3\c64464517f7a9c99f67829816d578002\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\tiwar\.gradle\caches\transforms-3\ce9decf1c54f00b7591a1f914b0d844b\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\220a2ac9549e647113c45b1f27dd431e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\f7244a02102b3a6188b996b868f5b7c5\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:4:11-65
+		INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:6:3-15
+INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:6:3-15
+INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:6:3-15
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\tiwar\.gradle\caches\transforms-3\7126c7bde319c5f414702198cc9aaf87\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\tiwar\.gradle\caches\transforms-3\7126c7bde319c5f414702198cc9aaf87\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\tiwar\.gradle\caches\transforms-3\5fcb464cec7415b609efacaa61655b5e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\tiwar\.gradle\caches\transforms-3\5fcb464cec7415b609efacaa61655b5e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\tiwar\.gradle\caches\transforms-3\3e1164ec29ee244df5ca4e6328c96b8e\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\tiwar\.gradle\caches\transforms-3\3e1164ec29ee244df5ca4e6328c96b8e\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\7dde890ec606c5546667ae903a27cfc7\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\7dde890ec606c5546667ae903a27cfc7\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\tiwar\.gradle\caches\transforms-3\e7eac759d0432ad3e4dc8551c16effdd\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\tiwar\.gradle\caches\transforms-3\e7eac759d0432ad3e4dc8551c16effdd\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\f3edd5d4e10cf852c031a55146116ec4\transformed\jetified-tensorflow-lite-2.5.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\f3edd5d4e10cf852c031a55146116ec4\transformed\jetified-tensorflow-lite-2.5.0\AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\tiwar\.gradle\caches\transforms-3\e430000a519231d18a21029908b079e1\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\tiwar\.gradle\caches\transforms-3\e430000a519231d18a21029908b079e1\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\tiwar\.gradle\caches\transforms-3\ea601c3ad2d362309f55f6804befee74\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\tiwar\.gradle\caches\transforms-3\ea601c3ad2d362309f55f6804befee74\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\tiwar\.gradle\caches\transforms-3\4250c4fdce0b0bb863868291b3b54fee\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\tiwar\.gradle\caches\transforms-3\4250c4fdce0b0bb863868291b3b54fee\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\tiwar\.gradle\caches\transforms-3\41ae5a3ab2f0b08e1202999e22767383\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\tiwar\.gradle\caches\transforms-3\41ae5a3ab2f0b08e1202999e22767383\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\02d96c1124ef0dea9c7edc211855a419\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\02d96c1124ef0dea9c7edc211855a419\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\5cee26a8f009ab364a3e08e2791f2040\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\5cee26a8f009ab364a3e08e2791f2040\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\7bcd35601bf34b789ce8599d83ff2b73\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\7bcd35601bf34b789ce8599d83ff2b73\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-3\5eca5f2d02838231eff174eb322a8d6e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-3\5eca5f2d02838231eff174eb322a8d6e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-3\d30b7d7b657d1416e0225503cc3d5507\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-3\d30b7d7b657d1416e0225503cc3d5507\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\7dabde73415b7d8e8b5926eb67dda7d8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\7dabde73415b7d8e8b5926eb67dda7d8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\bc7e4e92123373c17955f303c12e35be\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\bc7e4e92123373c17955f303c12e35be\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\f83724d332320ada6ca6dabe0294d55c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\f83724d332320ada6ca6dabe0294d55c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\tiwar\.gradle\caches\transforms-3\9926e72680848a9b70539a4bb0d04d3d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\tiwar\.gradle\caches\transforms-3\9926e72680848a9b70539a4bb0d04d3d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-3\a95332b79e6a0b577c649f4488c5e9fb\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-3\a95332b79e6a0b577c649f4488c5e9fb\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\tiwar\.gradle\caches\transforms-3\99caf459e39f0577631a901e4209c1f8\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\tiwar\.gradle\caches\transforms-3\99caf459e39f0577631a901e4209c1f8\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\tiwar\.gradle\caches\transforms-3\ac1e3c872cd51209e90bd58f75a25c4a\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\tiwar\.gradle\caches\transforms-3\ac1e3c872cd51209e90bd58f75a25c4a\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tiwar\.gradle\caches\transforms-3\de727323b42f3bbd20575a3a3269ebc6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tiwar\.gradle\caches\transforms-3\de727323b42f3bbd20575a3a3269ebc6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\318bf09ebf28f5d03e44a987551ea9fe\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\318bf09ebf28f5d03e44a987551ea9fe\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\a6241ca45e4b20dca36317bb138151b5\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\a6241ca45e4b20dca36317bb138151b5\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\tiwar\.gradle\caches\transforms-3\c64464517f7a9c99f67829816d578002\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\tiwar\.gradle\caches\transforms-3\c64464517f7a9c99f67829816d578002\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\tiwar\.gradle\caches\transforms-3\ce9decf1c54f00b7591a1f914b0d844b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\tiwar\.gradle\caches\transforms-3\ce9decf1c54f00b7591a1f914b0d844b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\220a2ac9549e647113c45b1f27dd431e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\220a2ac9549e647113c45b1f27dd431e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\f7244a02102b3a6188b996b868f5b7c5\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-3\f7244a02102b3a6188b996b868f5b7c5\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:6:3-15
+INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:6:3-15
+	android:targetSdkVersion
+		INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:6:3-15
+		INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:6:3-15
+		MERGED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:6:3-15
+		INJECTED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:8:3-24:17
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\tiwar\.gradle\caches\transforms-3\7126c7bde319c5f414702198cc9aaf87\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\tiwar\.gradle\caches\transforms-3\7126c7bde319c5f414702198cc9aaf87\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\tiwar\.gradle\caches\transforms-3\5fcb464cec7415b609efacaa61655b5e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\tiwar\.gradle\caches\transforms-3\5fcb464cec7415b609efacaa61655b5e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\tiwar\.gradle\caches\transforms-3\e7eac759d0432ad3e4dc8551c16effdd\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\tiwar\.gradle\caches\transforms-3\e7eac759d0432ad3e4dc8551c16effdd\transformed\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\f3edd5d4e10cf852c031a55146116ec4\transformed\jetified-tensorflow-lite-2.5.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\f3edd5d4e10cf852c031a55146116ec4\transformed\jetified-tensorflow-lite-2.5.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\tiwar\.gradle\caches\transforms-3\e430000a519231d18a21029908b079e1\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\tiwar\.gradle\caches\transforms-3\e430000a519231d18a21029908b079e1\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\bc7e4e92123373c17955f303c12e35be\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\bc7e4e92123373c17955f303c12e35be\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tiwar\.gradle\caches\transforms-3\de727323b42f3bbd20575a3a3269ebc6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tiwar\.gradle\caches\transforms-3\de727323b42f3bbd20575a3a3269ebc6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\bc7e4e92123373c17955f303c12e35be\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:13:11-37
+	android:label
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:11:11-43
+	tools:ignore
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:15:11-50
+	android:roundIcon
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:12:11-56
+	android:icon
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:10:11-40
+	android:allowBackup
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:9:11-37
+	android:theme
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:14:11-42
+activity#org.tensorflow.lite.codelabs.digitclassifier.MainActivity
+ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:17:5-23:16
+	android:exported
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:18:15-38
+	android:name
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:17:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:19:7-22:23
+action#android.intent.action.MAIN
+ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:20:9-60
+	android:name
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:20:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:21:19-66
+activity#com.divyanshu.draw.activity.DrawingActivity
+ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\tiwar\.gradle\caches\transforms-3\7126c7bde319c5f414702198cc9aaf87\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:12:9-14:66
+	android:theme
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\tiwar\.gradle\caches\transforms-3\7126c7bde319c5f414702198cc9aaf87\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\tiwar\.gradle\caches\transforms-3\7126c7bde319c5f414702198cc9aaf87\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:13:13-71
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\tiwar\.gradle\caches\transforms-3\e430000a519231d18a21029908b079e1\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\tiwar\.gradle\caches\transforms-3\e430000a519231d18a21029908b079e1\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\tiwar\.gradle\caches\transforms-3\e430000a519231d18a21029908b079e1\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58

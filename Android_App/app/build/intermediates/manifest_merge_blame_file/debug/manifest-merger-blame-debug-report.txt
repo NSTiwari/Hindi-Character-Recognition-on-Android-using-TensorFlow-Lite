@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.codelabs.digitclassifier"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:6:3-15
+8        android:minSdkVersion="21"
+8-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:6:3-15
+9        android:targetSdkVersion="30" />
+9-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:6:3-15
+10
+11    <application
+11-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:8:3-24:17
+12        android:allowBackup="true"
+12-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:9:11-37
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\tiwar\.gradle\caches\transforms-3\bc7e4e92123373c17955f303c12e35be\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/icon"
+15-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:10:11-40
+16        android:label="@string/app_name"
+16-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:11:11-43
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:12:11-56
+18        android:supportsRtl="true"
+18-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:13:11-37
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:14:11-42
+21        <activity
+21-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:17:5-23:16
+22            android:name="org.tensorflow.lite.codelabs.digitclassifier.MainActivity"
+22-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:17:15-43
+23            android:exported="true" >
+23-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:18:15-38
+24            <intent-filter>
+24-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:19:7-22:23
+25                <action android:name="android.intent.action.MAIN" />
+25-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:20:9-60
+25-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:20:17-58
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:21:9-68
+27-->D:\Hindi-Character-Recognition-on-Android-using-TensorFlow-Lite\Android_App\app\src\main\AndroidManifest.xml:21:19-66
+28            </intent-filter>
+29        </activity>
+30        <activity
+30-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\tiwar\.gradle\caches\transforms-3\7126c7bde319c5f414702198cc9aaf87\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:12:9-14:66
+31            android:name="com.divyanshu.draw.activity.DrawingActivity"
+31-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\tiwar\.gradle\caches\transforms-3\7126c7bde319c5f414702198cc9aaf87\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:13:13-71
+32            android:theme="@style/Theme.AppCompat.NoActionBar" />
+32-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\tiwar\.gradle\caches\transforms-3\7126c7bde319c5f414702198cc9aaf87\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:14:13-63
+33
+34        <meta-data
+34-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\tiwar\.gradle\caches\transforms-3\e430000a519231d18a21029908b079e1\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+35            android:name="com.google.android.gms.version"
+35-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\tiwar\.gradle\caches\transforms-3\e430000a519231d18a21029908b079e1\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+36            android:value="@integer/google_play_services_version" />
+36-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\tiwar\.gradle\caches\transforms-3\e430000a519231d18a21029908b079e1\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+37    </application>
+38
+39</manifest>
