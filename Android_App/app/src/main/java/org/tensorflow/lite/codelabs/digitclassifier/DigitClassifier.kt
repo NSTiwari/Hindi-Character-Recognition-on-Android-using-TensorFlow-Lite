@@ -61,7 +61,7 @@ class DigitClassifier(private val context: Context) {
 
     // Load the TF Lite model from asset folder and initialize TF Lite Interpreter with NNAPI enabled.
     val assetManager = context.assets
-    val model = loadModelFile(assetManager, "hindi.tflite")
+    val model = loadModelFile(assetManager, "<your_model.tflite>")
     val interpreter = Interpreter(model)
 
     // TODO: Read the model input shape from model file.
@@ -330,6 +330,6 @@ class DigitClassifier(private val context: Context) {
     private const val FLOAT_TYPE_SIZE = 4
     private const val PIXEL_SIZE = 1
 
-    private const val OUTPUT_CLASSES_COUNT = 5
+    private const val OUTPUT_CLASSES_COUNT = <your_no_of_output_classes>
   }
 }
