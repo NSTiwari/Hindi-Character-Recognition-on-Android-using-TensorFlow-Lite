@@ -26,5 +26,5 @@ An end-to-end tutorial to train a Hindi character recognition model and deploy i
 
 ![GitHub Logo](Output.gif)
 
-
+- Read the [Medium blog](https://medium.com/nerd-for-tech/hindi-character-recognition-on-android-using-tensorflow-lite-9948b428905c) for step-by-step implementation.
 
